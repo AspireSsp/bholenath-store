@@ -33,22 +33,22 @@
         </div> -->
     <footer>
         <div class="flex-all-center">
-            <a href="https://www.snapchat.com/add/bholenathstore">
+            <a href="https://www.snapchat.com/add/bholenathstore" target="_blank" >
                 <i class="fa fa-2x fa-facebook" style="color: #4267B2;"></i>
             </a>
-            <a href="https://instagram.com/bholenath.store?igshid=NDRkN2NkYzU=">
+            <a href="https://instagram.com/bholenath.store?igshid=NDRkN2NkYzU=" target="_blank">
                 <i class="fa fa-2x fa-instagram" style="color: #3f729b"></i>
             </a>
-            <a href="https://www.snapchat.com/add/bholenathstore">
+            <a href="https://www.snapchat.com/add/bholenathstore" target="_blank">
                 <i class="fa fa-2x fa-snapchat" style="color: #FFFC00;"></i>
             </a>
         </div>
+        <!-- <div class="HED" style="font-family: 'Akronim', cursive; font-size: 5vh;" >BHOLENATH STORE</div> -->
         <p class="cc">&copy;2022 BHOLENATHSTORE.com</p>
         <p class="rz"><a href="https://www.instagram.com/_roronoa_.zoro__/">Developed and Designed by </a></p><a
-            href="https://www.instagram.com/_roronoa_.zoro__/"> Shashank Patel</a></p>
+            href="https://www.instagram.com/_roronoa_.zoro__/">Ishty pvt. Ltd</a></p>
     </footer>
 
-    <div class="HED" style="font-family: 'Akronim', cursive; font-size: 5vh;" >BHOLENATH STORE</div>
 </body>
 
 </html>
