@@ -1,0 +1,50 @@
+@media (max-width: 576px) {
+    .col-sm-2{
+        width: 155px;
+        height: auto;
+
+    }
+    .col-sm-2 img{
+        max-height: 130px;
+    }
+    .m-3{
+        margin: 0.5rem;
+    }
+    .card-title{
+        font-size: 15px;
+    }
+    .btn{
+        font-size: 10px;
+        display: inline-block;
+        background: #ff523b;
+        color: #fff;
+        padding: 8px 30px;
+        margin: 0px;
+        border-radius: 30px;
+    }
+    .card-text{
+        font-size: 10px;
+    }
+    .card-body{
+        margin: 0px;
+    }
+    .card-body a{
+        margin: 0px;
+    }
+    /* .pro-div{
+        width: 140px;
+        height: auto;
+    } */
+ }
+
+
+
+ /* <div class="col-sm-2 border m-3">
+ <img src="img/w1a.jpeg" class="card-img-top" alt="..." width="100%" height="200px">
+ <div class="card-body">
+   <h5 class="card-title">Samsung ACTIVE 2</h5>
+   <p class="card-text">₹1799/-only <span style="font-size:70% ; margin-left: 10px;">₹30 Delivery</span></p>
+   
+   <a href="index.php?page=boat" class="btn btn-primary stretched-link mb-2">view all details</a>
+ </div>
+</div> */
