@@ -16,6 +16,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Akronim&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/contect-us.css">
+    <link rel="stylesheet" href="css/mobile.css">
 </head>
 
 <body>

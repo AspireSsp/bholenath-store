@@ -1,7 +1,12 @@
 @media (max-width: 576px) {
+    .row{
+        margin: 0px;
+        padding: 0px;
+    }
     .col-sm-2{
-        width: 155px;
+        width: 123px;
         height: auto;
+        padding: 0px;
 
     }
     .col-sm-2 img{
@@ -11,17 +16,9 @@
         margin: 0.5rem;
     }
     .card-title{
-        font-size: 15px;
-    }
-    .btn{
         font-size: 10px;
-        display: inline-block;
-        background: #ff523b;
-        color: #fff;
-        padding: 8px 30px;
-        margin: 0px;
-        border-radius: 30px;
     }
+    
     .card-text{
         font-size: 10px;
     }
@@ -30,6 +27,15 @@
     }
     .card-body a{
         margin: 0px;
+    }
+    .btn{
+        font-size: 10px;
+        display: inline-block;
+        background: #ff523b;
+        color: #fff;
+        padding: 6px 24px;;
+        margin: 0px;
+        border-radius: 30px;
     }
     /* .pro-div{
         width: 140px;
