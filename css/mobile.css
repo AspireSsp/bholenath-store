@@ -37,6 +37,9 @@
         margin: 0px;
         border-radius: 30px;
     }
+    .product-description{
+        font-size: 12px;
+    }
     /* .pro-div{
         width: 140px;
         height: auto;
