@@ -43,6 +43,7 @@
     .col-4{
         width: 150px;
         height: auto;
+        flex-basis: 34%;
         /* border: 1px solid gray; */
     }
     .col-4 a{
