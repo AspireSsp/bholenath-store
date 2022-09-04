@@ -40,6 +40,26 @@
     .product-description{
         font-size: 12px;
     }
+    .col-4{
+        width: 150px;
+        height: auto;
+        /* border: 1px solid gray; */
+    }
+    .col-4 a{
+        width: 100%;
+        height: auto;
+    }
+    .col-4 a img{
+        width: 100%;
+        max-height: 90px;
+        height: auto;
+    }
+    .col-4 h4{
+        font-size: 15px;
+    }
+    .col-4 p{
+        font-size: 12px;
+    }
     /* .pro-div{
         width: 140px;
         height: auto;
